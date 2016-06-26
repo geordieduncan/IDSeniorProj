@@ -1,0 +1,3 @@
+# README file:
+this is a quirky program that runs my brothers senior project algorithm, its pretty flexible with a little bit of editing, but measures a statistic using his algorithm for any daily stock opening price between any two pervious closed dates, and computes an overall momentum that the stock has on its last day. This returns on a scale from 40-100, simmilar to a school grade, rating C- as average and only stocks above C- to be trusted to grow. All of it is easily adjustable, the code is the fun part, the algorithm itself its actually pretty terrible also there may be issues when choosing the latest date in the data set as the date on which the alogrithm measures for momentum.
+
